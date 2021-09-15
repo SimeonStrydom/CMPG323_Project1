@@ -11,7 +11,6 @@
 	<groupId>za.ac.nwu</groupId>
 	<artifactId>323Project1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
 	<name>323Project1</name>
 	<description>CMPG 323 Project (Spring Boot)</description>
 	<properties>
@@ -48,13 +47,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
-	<modules>
-		<module>AccountSystemDomain</module>
-		<module>AccountSystemLogic</module>
-		<module>AccountSystemRepository</module>
-		<module>AccountSystemTranslator</module>
-		<module>AccountSystemWeb</module>
-	</modules>
 
 </project>
